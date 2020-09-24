@@ -1,4 +1,4 @@
-var Jenkins = require("jenkins-hash");
+var Jenkins = require("hash-jenkins");
 var fs = require("fs");
 
 function Int64String(value) {

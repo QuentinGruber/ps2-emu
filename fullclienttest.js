@@ -11,7 +11,7 @@ var LoginClient = require("soe-network").LoginClient,
     fs = require("fs"),
     atob = require("atob"),
     locale = require("soe-locale"),
-    Jenkins = require("jenkins-hash"),
+    Jenkins = require("hash-jenkins"),
     prompt = require("prompt"),
     debug = require("debug")("FullClientTest");
 
