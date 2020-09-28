@@ -19,6 +19,7 @@
     "debug": "*",
     "hash-jenkins": "^1.0.1",
     "loglevel": "*",
+    "mongodb": "^1.4.40",
     "prompt": "*",
     "soe-locale": "git+https://github.com/psemu/soe-locale.git",
     "soe-network": "git+https://github.com/QuentinGruber/soe-network.git"

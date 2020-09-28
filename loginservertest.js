@@ -11,7 +11,7 @@ log.setLevel("debug");
 
 var gameId = "ps2",
     environment = "test",
-    port = 20042,
+    port = 1115,
     loginKey = atob("F70IaxuU8C/w7FPXY1ibXw==");
 
 
